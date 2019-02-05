@@ -36,3 +36,4 @@
 | [Mike Bostock](https://bost.ocks.org/mike/)||
 | [Mike Bostock's bl.ocks.org](https://bl.ocks.org/mbostock)||
 | [Visual sorting algorithms](https://corte.si/posts/code/visualisingsorting/index.html)||
+| [Nick Case](https://ncase.me/)||
