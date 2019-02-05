@@ -13,3 +13,7 @@
 | [Tributary](https://github.com/enjalot/tributary.io)||
 | [Red Black Tree builder](http://gregfjohnson.com/redblackbuilder.html)||
 | [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)||
+| [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/)||
+| [Hexagons @ redblobgames.com](https://www.redblobgames.com/grids/hexagons/)||
+| [RedBlobGames.com](https://www.redblobgames.com/)||
+| [Morpheus Client](https://github.com/rkarthick/morpheus-client)||
